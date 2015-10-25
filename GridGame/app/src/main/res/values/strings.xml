@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spot !t</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="score">Score:</string>
+    <string name="time">Time:</string>
+    <string name="highscore">HighScore:</string>
+    <string name="currentscore">Score:</string>
+    <string name="play">Let\'s Play</string>
+    <string name="title_activity_start">Let the shooting begin</string>
+    <string name="title_activity_game">Catch\' em all</string>
+</resources>
