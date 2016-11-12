@@ -18,7 +18,3 @@ Full demo [here](https://youtu.be/z7-mfiwAVpQ)
 # Todo
 * Improve the color & seed color difference logic
 * Add levels of varying difficulty
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amrendra18/grid-game-app/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
